@@ -1,0 +1,5 @@
+[warn] insecure HTTP request is deprecated 'http://artifacts.unidata.ucar.edu/content/repositories/unidata-releases'; switch to HTTPS or opt-in as ("Unidata maven repository" at "http://artifacts.unidata.ucar.edu/content/repositories/unidata-releases").withAllowInsecureProtocol(true)
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/E:/MTECH/Spark/sparkscalaproject/"), "sparkscalaproject")...
+[debug] Done updating ProjectRef(uri("file:/E:/MTECH/Spark/sparkscalaproject/"), "sparkscalaproject")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

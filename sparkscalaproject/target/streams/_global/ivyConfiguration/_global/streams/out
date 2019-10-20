@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://artifacts.unidata.ucar.edu/content/repositories/unidata-releases'; switch to HTTPS or opt-in as ("Unidata maven repository" at "http://artifacts.unidata.ucar.edu/content/repositories/unidata-releases").withAllowInsecureProtocol(true)
